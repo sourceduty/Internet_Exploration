@@ -9,6 +9,9 @@
 To achieve this, Internet Exploration breaks down tasks into step-by-step processes, asking clarifying questions to ensure that users receive tailored guidance that meets their specific needs. It can suggest appropriate tools, libraries, and strategies for different automation tasks, whether for data collection, monitoring, or other interactive operations. The focus is on clarity and technical precision, providing users with practical, actionable advice for automating their web exploration projects.
 
 #
+![Truman](https://github.com/user-attachments/assets/fc7b14fb-7e88-4faf-be19-f21088aef380)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
